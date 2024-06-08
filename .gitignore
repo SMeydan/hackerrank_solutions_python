@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+
+# Other
+*.log
+*.tmp
+*.backup
+*.swp
+*.idea
+*.vscode
