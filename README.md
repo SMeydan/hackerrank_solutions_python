@@ -1,6 +1,8 @@
-<img width="1920" alt="image" src="https://github.com/SMeydan/hackerrank_solutions_python/assets/74561611/41579a0d-c2c5-4cda-b84b-0ce22f044629"># HackerRank Solutions in Python
+# HackerRank Solutions in Python
 
 Welcome to my repository of Python solutions for HackerRank challenges! Here, you will find my solutions to various problems on HackerRank. This repository serves as a way to track my progress and help others who are looking for solutions or study references.
+
+<img width="1243" alt="image" src="https://github.com/SMeydan/hackerrank_solutions_python/assets/74561611/863d490e-055d-4df9-a30a-89554d86e152">
 
 
 ## Table of Contents
