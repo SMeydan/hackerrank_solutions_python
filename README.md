@@ -19,15 +19,9 @@ This repository contains solutions to Python coding challenges from HackerRank. 
 The repository is organized as follows:
 
 hackerrank_solutions_python/
-│
-├── README.md
-├── problem1.py
-├── problem2.py
-├── problem3.py
-└── ...
-
-less
-Copy code
+readme.md
+problem1.py
+....
 
 Each Python file corresponds to a specific problem on HackerRank. The file names are descriptive of the problem they solve.
 
