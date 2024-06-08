@@ -1,4 +1,3 @@
-# hackerrank_solutions_python
 # HackerRank Solutions in Python
 
 Welcome to my repository of Python solutions for HackerRank challenges! Here, you will find my solutions to various problems on HackerRank. This repository serves as a way to track my progress and help others who are looking for solutions or study references.
